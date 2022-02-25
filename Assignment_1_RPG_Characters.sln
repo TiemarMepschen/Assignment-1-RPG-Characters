@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_1_RPG_Characters", "Assignment_1_RPG_Characters\Assignment_1_RPG_Characters.csproj", "{1C557560-509B-4BCD-BA2E-9A996C31034F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_1_RPG_CharactersTest", "Assignment_1_RPG_CharactersTest\Assignment_1_RPG_CharactersTest.csproj", "{95306136-E81A-4825-A454-58F9299E7FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C557560-509B-4BCD-BA2E-9A996C31034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C557560-509B-4BCD-BA2E-9A996C31034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C557560-509B-4BCD-BA2E-9A996C31034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C557560-509B-4BCD-BA2E-9A996C31034F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95306136-E81A-4825-A454-58F9299E7FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95306136-E81A-4825-A454-58F9299E7FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95306136-E81A-4825-A454-58F9299E7FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95306136-E81A-4825-A454-58F9299E7FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5FDE0A-A3A5-4D19-BD07-D33BCC9BF281}
+	EndGlobalSection
+EndGlobal
